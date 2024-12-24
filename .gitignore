@@ -1,0 +1,7 @@
+MyProject/Library
+MyProject/Logs
+MyProject/Temp
+.idea
+obj
+*.csproj
+*.csproj.user
